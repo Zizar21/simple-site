@@ -1,0 +1,155 @@
+body { font-family: 'Roboto', sans-serif; font-style: normal; }
+
+.alined__wraper {
+    margin: 0 auto;
+    max-width: 1110px;
+}
+
+.silverbg { background-color: #EEEFF1; }
+
+.bluebg { background-color: #34547A; }
+
+.greybg { background-color: #f9f9f9; }
+
+nav { padding: 80px 0; }
+
+.nav__item {
+    display: inline-block;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #34547A;
+    margin-right: 40px;
+}
+
+.nav__item:last-child { margin-right: 0; }
+
+.hero { padding: 70px 0 140px; }
+
+.hero h1 {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 79px;
+    color: #000000;
+}
+
+.hero .hero__description {
+    margin-top: 60px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    max-width: 540px;
+}
+
+.write__me {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    margin-top: 80px;
+    border: 0;
+    padding: 21px 69px; 
+}
+
+.about__me { 
+    text-align: center;
+    padding: 110px 0 100px; 
+}
+
+.about__me h2 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+
+.about__me .about__me-description  {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin: 50px auto 0;
+    color: #727272;
+    max-width: 540px;
+}
+
+.partfolio { padding: 100px 0; }
+
+.partfolio__item {
+    margin-right: 50px;
+    display: inline-block;
+}
+
+.partfolio__item:last-child { margin-right: 0; }
+
+.image__wraper {
+    display: inline-block;
+}
+
+.metadata__wraper {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.partfolio .partfolio__item .metadata__wraper .title {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.partfolio .partfolio__item .metadata__wraper .description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.How_do_i_work {
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.How_do_i_work h2 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+}
+
+.How_do_i_work-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+    margin: 50px auto 0;
+    max-width: 540px;
+}
+
+.video {
+    margin-top: 70px;
+}
+
+footer { padding: 50px 0; }
+
+footer h3 {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+footer .footer__description {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
